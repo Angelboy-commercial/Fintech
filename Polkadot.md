@@ -1,4 +1,6 @@
-### What is Polkadot?
+# On da **Dot**
+
+## What is *Polkadot*?
 Polkadot is one of the pioneer blockchains of the new web 3.0. Polkadot is one of a core handful of what
 
 are called Layer 1 blockchains. This means that the protocol serves as a foundation for other protocols 
