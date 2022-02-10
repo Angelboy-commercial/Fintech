@@ -1,4 +1,4 @@
-# On da **Dot**
+# On the **Dot**
 
 ## What is *Polkadot*?
 Polkadot is one of the pioneer blockchains of the new web 3.0. Polkadot is one of a core handful of what
@@ -25,7 +25,19 @@ the relay chain and share security and consensus. Polkadot will have 100 paracha
 
 (blockchains that connect to relay chian) who all compete for the slots in auctions. During these auctions 
 
-blockchains will have to ask Dot (polkadot native token) holders to stake 
+blockchains will have to ask Dot (polkadot native token) holders to lend their tokens to the team in order 
+
+to bid for a spot in auctions. What happens is if the blockchain you lend to wins an auction spot? The DOT you
+
+lent is now locked to help secure the relay chain for 2 years(duration of the slot). If the protocol you lent to
+
+loses, they may keep the DOT temperarily in order to compete in another upcoming auction. Otherwise, is returned back
+
+to it's rightful owner. 
+
+
+### Let's get to Business
+
 
 
 
