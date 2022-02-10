@@ -36,9 +36,27 @@ loses, they may keep the DOT temperarily in order to compete in another upcoming
 to it's rightful owner. 
 
 
+![Polkadot](https://adoriasoft.com/wp-content/uploads/2020/07/dg-network-xl-2-1-1-1024x575.png)
+
+
+
+
 ### Let's get to Business
+If you had to put a pinpoint on the main commerce issue that polkadot is trying to solve it would be... all of them. See,
+
+polkadot itself is not a protocol that focuses on a partiular solution but more a house chain that hosts 100 parachains who
+
+generally all service a niche solution. Any blockchain can attmept to connect to the Polkadot relay chain, even it's 'competitors'
+
+via bridges. 
 
 
+
+
+
+
+
+#### Governance
 
 
 
