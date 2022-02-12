@@ -38,7 +38,7 @@ to it's rightful owner.
 
 ![Polkadot](https://adoriasoft.com/wp-content/uploads/2020/07/dg-network-xl-2-1-1-1024x575.png)
 
-
+---
 
 
 ### Let's get to Business
@@ -59,15 +59,7 @@ and different parachains will be intrigated throughout the year.
 
 
 
-
-
-
-
-
-
-
-
-
+---
 
 
 #### I'm the boss?(Governance)
