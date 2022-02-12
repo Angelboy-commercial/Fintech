@@ -62,6 +62,14 @@ and different parachains will be intrigated throughout the year.
 
 
 
+
+
+
+
+
+
+
+
 #### I'm the boss?(Governance)
 Governance in very short summary is the manner in which a blockchain is secured and votes on new implementations to the protocol. 
 
@@ -79,6 +87,8 @@ community because they need Dot holder to nominate them via staking. Lastly, Fis
 They report bad behavior/actors on the parachain to Validators. Fishermen can be played by a variety of roles in the ecosystem including
 
 collators, hence the undercover agent anaolgy.
+
+
 
 
 
