@@ -42,13 +42,19 @@ to it's rightful owner.
 
 
 ### Let's get to Business
-If you had to put a pinpoint on the main commerce issue that polkadot is trying to solve it would be... all of them. See,
+If you had to put a pinpoint on the main commerce issue that polkadot is trying to solve it would be...
 
-polkadot itself is not a protocol that focuses on a partiular solution but more a house chain that hosts 100 parachains who
+all of them. See, polkadot itself is not a protocol that focuses on a partiular solution but more a house 
 
-generally all service a niche solution. Any blockchain can attmept to connect to the Polkadot relay chain, even it's 'competitors'
+chain that hosts 100 parachains who generally all service a niche solution. Any blockchain can attmept to 
 
-via bridges. 
+connect to the Polkadot relay chain, even it's 'competitors' via bridges. Therefore, the market is really 
+
+anyone using cryptocurrency/blockchain technology. More than likely you will have either interacted 
+
+directly with a parachain or indirectly through bridging between blockchains. On top of the fact that new 
+
+and different parachains will be intrigated throughout the year. 
 
 
 
@@ -56,7 +62,61 @@ via bridges.
 
 
 
-#### Governance
+#### I'm the boss?(Governance)
+Governance in very short summary is the manner in which a blockchain is secured and votes on new implementations to the protocol. 
+
+**Security**
+Polkadot has one of the most complex goverence systems in the entire blockchains ecosystems and has many roles within it's security.
+
+Starting from the bottom of the food chain their are the nominators everyday DOT holders who stake(essentially lend). Collators can be 
+
+compared to middle men, their role is to shard transactions and make it easier for validators. The role of validator is to confirm the
+
+transactions of the collators and to secure the network through consensus with other validators. Validators are selected by the Polkadot
+
+community because they need Dot holder to nominate them via staking. Lastly, Fishermen are the undercover agents of the ecosystem.
+
+They report bad behavior/actors on the parachain to Validators. Fishermen can be played by a variety of roles in the ecosystem including
+
+collators, hence the undercover agent anaolgy.
+
+
+
+**Upgrades**
+Polkadot has a very interesting rollout of the relay chain. How the chain operates in the beginning is
+
+very different from what it will look like in its final form. In the beginng the chain will operate off 
+
+of a proof of Authority. The Web3 Foundation(creators of Polkadot) will have a sudo key which will allow
+
+them to make emergency upgrades and anything else needed to maintain the network. After the initial phase,
+
+each step after will make the Web3 Foundation's sudo key less important. Next, a worthy set of validators 
+
+are nominated. Eventually, what is known as the (first)Council members will be selected by DOT holders. These
+
+are elected officials that have the power to stop potentially harmful upgrades Dot holders have voted in favor
+
+of. A technical committee is also estbalished of teams who work on the protocol. They colaborate with the 
+
+Council members in cases of emergency and other decisions that may need swift implemention. The final step 
+
+is when the governce is in full operation and DOT holders can vote on an upgrade to remove the Web3 Foundation's
+
+sudo key. From this point in the future of the network is 100% in the hands of those who use it, how it should
+
+be. This was a very short and simple summary for a long, complex processes that has been rolling out over the 
+
+course of years and will continue to!
+
+
+
+
+
+
+
+
+##### Network Security
 
 
 
