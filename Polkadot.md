@@ -66,6 +66,7 @@ and different parachains will be intrigated throughout the year.
 Governance in very short summary is the manner in which a blockchain is secured and votes on new implementations to the protocol. 
 
 **Security**
+
 Polkadot has one of the most complex goverence systems in the entire blockchains ecosystems and has many roles within it's security.
 
 Starting from the bottom of the food chain their are the nominators everyday DOT holders who stake(essentially lend). Collators can be 
@@ -85,6 +86,7 @@ collators, hence the undercover agent anaolgy.
 
 
 **Upgrades**
+
 Polkadot has a very interesting rollout of the relay chain. How the chain operates in the beginning is
 
 very different from what it will look like in its final form. In the beginng the chain will operate off 
@@ -115,10 +117,69 @@ course of years and will continue to!
 
 
 
+---
 
 
 
 ##### Network Security
+
+When it comes to blockchain and cryptocurrencies network security is the number one concern. At the end of the day, 
+
+it doesn't matter how useful a blockchain is if the protocol is easily exploitable. I mentioned earlier that Polkadot
+
+is a layer 1 platform along with other protocols such as Ethereum, Cardano and you can even throw in Solana. However,
+
+Polkadot is a self-proclaimed layer 0 protocol. What does this mean? The relay chain is the true polkadot protocol and the 
+
+other chains *connect* to the protocol rather than being built on it. How does this affect the security aspect of the protocol
+
+one might ask? Well, by connecting to the relay chain every parachain or parathread(parachain that has mulitple smaller blockchain taking 
+
+up the slot) is entitled to (instant) shared security through the relay chain. This is the reason that parachain winners must lock
+
+away their bidded Dot, and in exchange they receive not only an amazing platform but security too! This is very different from other
+
+layer 1 protocols such as Ethereum where a weaker application may be singled out and targeted.
+
+
+
+
+---
+
+
+##### I came here for the competetion!
+
+I have a personal belief that true competetion will bring out the best in everyone. It forces everyone to continously improve
+
+or get left behind. It makes the customer the true boss as everyone is competeting for the better solution! Much like the 
+
+beginning of the internet, there are many blockchain companies who all do the same thing but only the best will become
+
+household names in the future. Polkadot and its layer 1 peers are no different. As of right now, it would appear as if 
+
+Ethereum and Cardano are the main competetitors of Polkadot. Ethereum, the proto-type for the modern blockchain was one 
+
+of a kind and state of the art when it first came out. However, first doesn't always mean the best. Ethereum has run into
+
+some serious issues involving scalabilty(along with some security exploitations). For this reason, Ethereum has become 
+
+almost unusuable for everyday people due to the enormous gas fees from all of the transactions competing to be validated.
+
+Cardano on the other hand, has the same advantage as Polkadot. It was founded by one of the other original members of
+
+Ethereum and from its inception was designed to fix the problems encountered while building Ethereum. In my opinion,
+
+Cardano is a much more formidable competetitor but it tends to focus on use cases for those who the world has failed.
+
+Giving them the opportunity to have a digital identy and access to financial products although it does serve many
+
+of the same purposes as Polkadot no doubt. Taking all of the above points into consideration Polkadot has no 
+
+competetion. Not because its head and shoulder above its competetiors(which I firmly believe), but because it can
+
+connect to its competitors using *bridges*. How can someone be your competition if you can complement each other,
+
+am I right?
 
 
 
