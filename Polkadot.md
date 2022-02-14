@@ -1,6 +1,6 @@
 # On the **Dot**
 
-## What is *Polkadot*?
+# What is *Polkadot*?
 Polkadot is one of the pioneer blockchains of the new web 3.0. Polkadot is one of a core handful of what
 
 are called Layer 1 blockchains. This means that the protocol serves as a foundation for other protocols 
@@ -41,7 +41,7 @@ to it's rightful owner.
 ---
 
 
-### Let's get to Business
+# Let's get to Business
 If you had to put a pinpoint on the main commerce issue that polkadot is trying to solve it would be...
 
 all of them. See, polkadot itself is not a protocol that focuses on a partiular solution but more a house 
@@ -62,7 +62,7 @@ and different parachains will be intrigated throughout the year.
 ---
 
 
-#### I'm the boss?(Governance)
+# I'm the boss?(Governance)
 Governance in very short summary is the manner in which a blockchain is secured and votes on new implementations to the protocol. 
 
 **Security**
@@ -121,7 +121,7 @@ course of years and will continue to!
 
 
 
-##### Network Security
+# Network Security
 
 When it comes to blockchain and cryptocurrencies network security is the number one concern. At the end of the day, 
 
@@ -147,7 +147,7 @@ layer 1 protocols such as Ethereum where a weaker application may be singled out
 ---
 
 
-##### I came here for the competetion!
+# I came here for the competetion!
 
 I have a personal belief that true competetion will bring out the best in everyone. It forces everyone to continously improve
 
@@ -182,5 +182,8 @@ connect to its competitors using *bridges*. How can someone be your competition 
 am I right?
 
 
+
+
+##### 
 
 
